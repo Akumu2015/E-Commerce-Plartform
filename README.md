@@ -49,3 +49,4 @@ Frontend: React is used to create an intuitive and interactive user interface. I
 Backend: Python with Flask powers the server-side logic, handling REST API endpoints that the frontend interacts with. Flask manages user sessions, authentication, product catalog, and order management.
 Database: PostgreSQL is used to store user data, product listings, orders, and payment transactions securely with robust relational data management capabilities.
 The result is a powerful, user-friendly e-commerce platform that delivers a smooth shopping experience for both customers and administrators.# E-Commerce-Plartform
+# E-Commerce-Plartform
