@@ -50,3 +50,6 @@ Backend: Python with Flask powers the server-side logic, handling REST API endpo
 Database: PostgreSQL is used to store user data, product listings, orders, and payment transactions securely with robust relational data management capabilities.
 The result is a powerful, user-friendly e-commerce platform that delivers a smooth shopping experience for both customers and administrators.# E-Commerce-Plartform
 # E-Commerce-Plartform
+
+
+Here is the deploymenmt link of this project: https://dedanie-online.vercel.app/
